@@ -1,3 +1,9 @@
 .navbar{
   padding: 0.5rem 9rem!important;
 }
+.navbar-nav{
+  flex-direction: row!important;
+}
+.nav-item{
+  padding-left: 8px!important;
+}
